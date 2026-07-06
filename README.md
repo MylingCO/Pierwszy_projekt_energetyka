@@ -1,0 +1,1 @@
+Pierweszy projekt, celem jest stworzenie modelu predykcyjnego przy użyciu jednego noteboka, dane pobrane z kaggle.
